@@ -6,9 +6,10 @@ See the 'Feels Like', 'Humidity' and 'Wind Speed' for more information.
 
 ## APIs
 Weather data is retrieved from http://openweathermap.org/
+
 <u>Note:</u> The weather data retrived from Open Weather is not very accurate. Most of the time, the weather forecast is not correct.
 
 ## Preview:
 
-<img src="![Screenshot 2023-12-10 at 16 56 12](https://github.com/yaelshteiman/weather-app/assets/89336487/f6f67ef4-7b1d-4f65-9072-3b97b2e06846)" width="300">
+<img src="https://github.com/yaelshteiman/weather-app/blob/main/src/assets/preview.png" width="300" alt="">
 
